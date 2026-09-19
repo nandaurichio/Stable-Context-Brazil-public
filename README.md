@@ -4,13 +4,15 @@
 
 O Stable-Context: Brasil é um projeto de pesquisa exploratória que investiga sinais observáveis de atividade de finanças descentralizadas no Brasil por meio da atividade de stablecoins na rede Ethereum e do contexto econômico relacionado.
 
-> Este repositório contém apenas a apresentação pública do projeto. Os materiais detalhados de pesquisa são mantidos em repositório separado e podem ser disponibilizados a colaboradores autorizados mediante solicitação.
+> Este repositório apresenta apenas a visão pública do projeto. Os materiais detalhados de pesquisa são mantidos separadamente e podem ser disponibilizados mediante contato.
 
-## Acesso aos materiais restritos
+## Conheça melhor o projeto
 
-Para acessar o conteúdo, por favor, entre em contato com [@nandaurichio](https://github.com/nandaurichio) no GitHub. Na mensagem, informe brevemente seu interesse, a finalidade do acesso e se o pedido está relacionado a pesquisa, colaboração ou revisão.
+Para conhecer melhor o projeto, discutir a metodologia ou solicitar acesso aos materiais disponíveis, entre em contato com [@nandaurichio](https://github.com/nandaurichio) no GitHub.
 
-## Visão geral do projeto
+Na mensagem, informe brevemente seu interesse, a finalidade do contato e se o pedido está relacionado a pesquisa, colaboração ou revisão.
+
+## Visão geral
 
 O projeto investiga como a atividade observável de stablecoins pode ajudar a compreender a relação em evolução entre o Brasil e as finanças descentralizadas.
 
@@ -20,6 +22,20 @@ A pesquisa é exploratória: identifica padrões e formula hipóteses para inves
 
 > Como a atividade observável de stablecoins na rede Ethereum pode ajudar a compreender a relação em evolução entre o Brasil e as finanças descentralizadas?
 
+### Perspectiva da pesquisa
+
+O projeto considera a atividade em blockchain em conjunto com aspectos econômicos e regulatórios selecionados do contexto brasileiro.
+
+Uma mesma observação pode ter múltiplas explicações, incluindo condições de mercado, liquidez, disponibilidade de exchanges, mudanças regulatórias e limitações das fontes de dados.
+
+Por isso, o projeto distingue entre:
+
+- dados observados;
+- métricas derivadas;
+- informação contextual;
+- interpretação; e
+- hipóteses para investigação futura.
+
 ## Escopo
 
 O enquadramento público do projeto inclui:
@@ -28,91 +44,70 @@ O enquadramento público do projeto inclui:
 - USDT e USDC como lentes iniciais de observação;
 - atividade a partir de 2023;
 - contexto econômico e regulatório brasileiro;
-- comparação de sinais provenientes de fontes públicas;
+- mudanças observáveis ao longo do tempo;
+- comparação de sinais provenientes de fontes públicas; e
 - análise temporal exploratória.
 
-## Conteúdo do repositório público
+## Metodologia em alto nível
 
-Este repositório é intencionalmente limitado a:
+De forma geral, a pesquisa envolve:
+
+1. identificação de fontes públicas relevantes;
+2. padronização das observações;
+3. construção de métricas descritivas;
+4. comparação de sinais independentes ao longo do tempo;
+5. análise conjunta com informações econômicas e regulatórias; e
+6. formulação de hipóteses para investigação posterior.
+
+Este repositório não é um pacote completo de reprodução da pesquisa.
+
+## Conteúdo público
+
+Este repositório disponibiliza:
 
 - contexto do projeto;
+- pergunta central;
 - escopo da pesquisa;
 - metodologia em alto nível;
-- limitações;
-- instruções de acesso aos materiais autorizados.
+- limitações; e
+- informações de contato.
 
-Os seguintes materiais não são publicados aqui:
+Os materiais técnicos e os resultados detalhados não são publicados aqui.
 
-- dados brutos ou processados;
-- scripts de ingestão e transformação;
-- notebooks analíticos;
-- consultas SQL;
-- figuras internas e descobertas;
-- notas detalhadas de pesquisa;
-- artefatos de reprodução.
+## Limitações
 
-## Princípios metodológicos
+Esta é uma pesquisa exploratória. A atividade em blockchain oferece apenas uma visão parcial da atividade financeira real e não permite, por si só:
 
-O projeto distingue entre:
+- identificar indivíduos ou proprietários de carteiras;
+- inferir a nacionalidade de carteiras;
+- determinar as intenções dos participantes;
+- capturar integralmente atividades fora da rede;
+- estabelecer relações causais; ou
+- prever preços ou movimentos de mercado.
 
-1. dados observados;
-2. métricas derivadas;
-3. informação contextual;
-4. interpretação;
-5. hipóteses para investigação futura.
-
-A atividade em blockchain oferece apenas uma visão parcial do comportamento real. Os resultados devem ser interpretados considerando a cobertura das fontes, as premissas de medição e as limitações dos dados.
-
-## Limitações e interpretação responsável
-
-Este projeto é exploratório. Uma relação observada não demonstra que um fator causou outro.
-
-A atividade em blockchain representa apenas parte da atividade financeira do mundo real. Ela pode não capturar:
-
-- atividade fora da rede observada;
-- sistemas privados;
-- redes não observadas;
-- intenções dos usuários;
-- relação entre uma carteira e uma pessoa ou organização.
-
-Também é importante considerar que:
-
-- os dados públicos podem diferir em cobertura, qualidade, frequência de atualização e tratamento de observações ausentes;
-- indicadores derivados são aproximações analíticas;
-- comparações entre fontes devem ser interpretadas com cautela;
-- o projeto não estabelece causalidade econômica;
-- o projeto não identifica indivíduos ou proprietários de carteiras;
-- o projeto não infere nacionalidade de carteiras;
-- o projeto não realiza KYC;
-- o projeto não cria perfis pessoais;
-- o projeto não oferece aconselhamento financeiro, jurídico ou tributário;
-- o projeto não prevê preços de ativos.
-
-Nada neste projeto constitui aconselhamento de investimento, financeiro, legal, tributário ou de negociação, nem recomendação de compra, venda ou retenção de qualquer ativo.
+O projeto não realiza KYC, não cria perfis pessoais e não oferece aconselhamento financeiro, jurídico ou tributário.
 
 Para mais detalhes, consulte [Limitações](docs/limitations.md).
 
-## Política de comunicação pública
-
-Materiais detalhados de pesquisa, incluindo dados, scripts de processamento, notebooks, SQL, descobertas internas e artefatos de reprodução, são mantidos separadamente. O acesso pode ser concedido a colaboradores, revisores ou pesquisadores autorizados, mediante solicitação individual.
-
-Essa restrição tem como objetivo proteger a integridade da pesquisa, respeitar termos aplicáveis de dados e serviços e evitar reprodução não autorizada do trabalho.
-
 ## Uso adequado
 
-O conteúdo deste repositório pode ser usado para entender o enquadramento da pesquisa e apoiar discussões ou colaborações autorizadas. Ele não deve ser tratado como conselho financeiro, previsão de mercado ou medição definitiva da adoção de DeFi no Brasil.
+O conteúdo deste repositório pode ser utilizado para compreender o enquadramento da pesquisa e apoiar discussões ou colaborações autorizadas.
+
+Ele não deve ser interpretado como:
+
+- aconselhamento financeiro;
+- recomendação de investimento;
+- previsão de mercado;
+- análise definitiva da adoção de DeFi no Brasil; ou
+- evidência de causalidade econômica.
 
 ## Status do projeto
 
 **Status:** Protótipo de pesquisa exploratória  
-**Origem:** Iniciado durante o [ETHOnline 2026](https://ethglobal.com/), que ocorreu entre os dias 04 e 16 de setembro.
+**Origem:** Iniciado durante o [ETHOnline 2026](https://ethglobal.com/events/ethonline2026), realizado de 4 a 16 de setembro.
 
 O escopo, a metodologia e os materiais podem evoluir conforme a pesquisa for validada e ampliada.
 
 ## Contato
 
-Para solicitar acesso, propor colaboração ou esclarecer dúvidas, entre em contato com [@nandaurichio](https://github.com/nandaurichio).
-
-## Licença e materiais de terceiros
-
-Os materiais públicos deste repositório são fornecidos conforme os termos da licença do repositório, quando houver. Nomes, dados, serviços e marcas de terceiros permanecem sujeitos aos respectivos direitos e termos de uso.
+Para solicitar informações, propor colaboração ou discutir o projeto, entre em contato com [@nandaurichio](https://github.com/nandaurichio).
