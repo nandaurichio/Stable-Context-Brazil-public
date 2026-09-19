@@ -8,13 +8,7 @@ O Stable-Context: Brasil é um projeto de pesquisa exploratória que investiga s
 
 ## Acesso aos materiais restritos
 
-O repositório completo da pesquisa é privado:
-
-**[Solicitar acesso ao repositório de pesquisa](https://github.com/nandaurichio/Stable-Context-Brazil)**
-
-Se você não tiver permissão para acessá-lo, entre em contato com **[@nandaurichio](https://github.com/nandaurichio)** no GitHub. Na mensagem, informe brevemente seu interesse, a finalidade do acesso e se o pedido está relacionado a pesquisa, colaboração ou revisão.
-
-A autorização é concedida individualmente, a critério do responsável pelo projeto. O pedido não implica acesso automático.
+Para acessar o conteúdo, por favor, entre em contato com [@nandaurichio](https://github.com/nandaurichio) no GitHub. Na mensagem, informe brevemente seu interesse, a finalidade do acesso e se o pedido está relacionado a pesquisa, colaboração ou revisão.
 
 ## Visão geral do projeto
 
@@ -111,7 +105,7 @@ O conteúdo deste repositório pode ser usado para entender o enquadramento da p
 ## Status do projeto
 
 **Status:** Protótipo de pesquisa exploratória  
-**Origem:** Iniciado durante o ETHOnline 2026
+**Origem:** Iniciado durante o [ETHOnline 2026](https://ethglobal.com/), que ocorreu entre os dias 04 e 16 de setembro.
 
 O escopo, a metodologia e os materiais podem evoluir conforme a pesquisa for validada e ampliada.
 
