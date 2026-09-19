@@ -1,45 +1,92 @@
-# Limitations
+# Limitações
 
-## Exploratory nature
+## Natureza exploratória
 
-This project is exploratory. Its purpose is to identify observable patterns and formulate hypotheses for further investigation. An observed relationship does not demonstrate that one factor caused another.
+Este projeto é exploratório. Sua finalidade é identificar padrões observáveis e formular hipóteses para investigação posterior. Uma relação observada não demonstra que um fator causou outro.
 
-## Partial view of activity
+## Visão parcial da atividade
 
-Blockchain data captures only part of real-world financial activity. It may not capture off-chain activity, private systems, unobserved networks, user intentions or the relationship between a wallet and a person or organization.
+A atividade em blockchain representa apenas parte da atividade financeira do mundo real. Ela pode não capturar:
 
-## No individual identification
+- atividade fora da rede observada;
+- sistemas privados;
+- redes não observadas;
+- intenções dos usuários;
+- a relação entre uma carteira e uma pessoa ou organização.
 
-The project does not attempt to identify individuals, determine wallet ownership or infer the nationality of wallet holders. Economic or geographic context must not be interpreted as evidence about a specific participant.
+## Ausência de identificação individual
 
-## Data-source limitations
+O projeto não tenta identificar indivíduos, determinar a propriedade de carteiras ou inferir a nacionalidade de titulares de carteira. O contexto econômico ou geográfico não deve ser interpretado como evidência sobre um participante específico.
 
-Public data sources may differ in coverage, definitions, update frequency, historical availability, quality, aggregation methods and treatment of missing observations. Comparisons between sources must be interpreted cautiously.
+## Limitações das fontes de dados
 
-## Measurement limitations
+As fontes de dados públicas podem diferir em:
 
-Derived indicators are analytical approximations. They may depend on asset and protocol selection, market coverage, exchange availability, currency conversion, time aggregation and data-preparation assumptions.
+- cobertura;
+- definições;
+- frequência de atualização;
+- disponibilidade histórica;
+- qualidade;
+- métodos de agregação;
+- tratamento de observações ausentes.
 
-A metric should not be treated as a direct measurement of a human or economic phenomenon without additional validation.
+Comparações entre fontes devem ser interpretadas com cautela.
 
-## No causal claims
+## Limitações de medição
 
-The project does not establish causal relationships between stablecoin activity, economic conditions, regulatory events, market movements, DeFi adoption or user behavior.
+Indicadores derivados são aproximações analíticas. Eles podem depender de:
 
-## No financial advice
+- seleção de ativos e protocolos;
+- cobertura de mercado;
+- disponibilidade de exchanges;
+- conversão de moedas;
+- agregação temporal;
+- premissas adotadas na preparação dos dados.
 
-Nothing in this project constitutes investment, financial, legal, tax or trading advice, or a recommendation to buy, sell or hold any asset.
+Uma métrica não deve ser tratada como medida direta de um fenômeno humano ou econômico sem validação adicional.
 
-## Restricted research materials
+## Ausência de causalidade
 
-This public repository intentionally excludes raw data, processed datasets, detailed ingestion scripts, transformation logic, analytical notebooks, SQL queries, internal findings, private research notes and reproducibility artifacts.
+O projeto não estabelece relações causais entre:
 
-This restriction is intended to protect research integrity, respect applicable data and service terms, and prevent unauthorized reproduction of the underlying work.
+- atividade de stablecoins;
+- condições econômicas;
+- eventos regulatórios;
+- movimentos de mercado;
+- adoção de DeFi;
+- comportamento de usuários.
 
-## Third-party sources
+## Sem aconselhamento financeiro
 
-Third-party data, services, protocols, brands and technologies remain subject to their own terms, documentation, availability and licensing conditions. Their inclusion does not imply endorsement.
+Nada neste projeto constitui:
 
-## Interpretation
+- aconselhamento de investimento;
+- aconselhamento financeiro;
+- aconselhamento jurídico;
+- aconselhamento tributário;
+- aconselhamento de negociação;
+- recomendação de compra, venda ou retenção de qualquer ativo.
 
-Readers should interpret the public materials in light of these limitations. The project's scope and conclusions may change as the research, data and validation process evolve.
+## Materiais de pesquisa restritos
+
+Este repositório público exclui intencionalmente:
+
+- dados brutos;
+- dados processados;
+- scripts detalhados de ingestão;
+- lógica de transformação;
+- notebooks analíticos;
+- consultas SQL;
+- descobertas internas;
+- notas privadas de pesquisa;
+- artefatos de reprodução.
+
+Essa restrição tem como objetivo proteger a integridade da pesquisa, respeitar termos aplicáveis de dados e serviços e evitar reprodução não autorizada do trabalho.
+
+## Fontes de terceiros
+
+Dados, serviços, protocolos, marcas e tecnologias de terceiros continuam sujeitos aos seus próprios termos, documentação, disponibilidade e condições de licenciamento. A menção de uma fonte ou tecnologia não implica endosso.
+
+## Interpretação
+
+Os leitores devem interpretar os materiais públicos à luz destas limitações. O escopo e as conclusões do projeto podem mudar conforme a pesquisa, os dados e o processo de validação evoluem.
