@@ -1,128 +1,124 @@
-# Stable-Context: Brazil
+# Stable-Context: Brasil
 
-**Public project overview**
+**Visão pública do projeto**
 
-Stable-Context: Brazil is an exploratory research project examining observable signals of decentralized-finance activity in Brazil through stablecoin activity on Ethereum and related economic context.
+O Stable-Context: Brasil é um projeto de pesquisa exploratória que investiga sinais observáveis de atividade de finanças descentralizadas no Brasil por meio da atividade de stablecoins na rede Ethereum e do contexto econômico relacionado.
 
-> This repository contains the public-facing overview only. Detailed research materials are maintained separately and may be made available to authorized collaborators upon request.
+> Este repositório contém apenas a apresentação pública do projeto. Os materiais detalhados de pesquisa são mantidos em repositório separado e podem ser disponibilizados a colaboradores autorizados mediante solicitação.
 
-## Access to restricted materials
+## Acesso aos materiais restritos
 
-The complete research repository is private:
+O repositório completo da pesquisa é privado:
 
-**[Request access to the research repository](https://github.com/nandaurichio/Stable-Context-Brazil)**
+**[Solicitar acesso ao repositório de pesquisa](https://github.com/nandaurichio/Stable-Context-Brazil)**
 
-If you do not have permission to view it, please contact **[@nandaurichio](https://github.com/nandaurichio)** on GitHub. In your request, briefly explain your interest, intended use and whether you are requesting access for research, collaboration or review.
+Se você não tiver permissão para acessá-lo, entre em contato com **[@nandaurichio](https://github.com/nandaurichio)** no GitHub. Na mensagem, informe brevemente seu interesse, a finalidade do acesso e se o pedido está relacionado a pesquisa, colaboração ou revisão.
 
-Access is granted individually at the maintainer's discretion. A request does not imply automatic authorization.
+A autorização é concedida individualmente, a critério do responsável pelo projeto. O pedido não implica acesso automático.
 
-## Project overview
+## Visão geral do projeto
 
-### Purpose
+O projeto investiga como a atividade observável de stablecoins pode ajudar a compreender a relação em evolução entre o Brasil e as finanças descentralizadas.
 
-The project investigates how publicly observable stablecoin activity may help illuminate the evolving relationship between Brazil and decentralized finance.
+A pesquisa é exploratória: identifica padrões e formula hipóteses para investigação posterior. Não busca estabelecer causalidade, identificar indivíduos ou prever mercados financeiros.
 
-The project uses public signals as one partial source of evidence. It does not attempt to identify individuals, assign nationality to wallets or infer the intentions of participants.
+### Pergunta central de pesquisa
 
-The research is exploratory: it identifies patterns and develops hypotheses for further investigation. It does not claim to establish causality, identify individuals or predict markets.
+> Como a atividade observável de stablecoins na rede Ethereum pode ajudar a compreender a relação em evolução entre o Brasil e as finanças descentralizadas?
 
-### Central research question
+## Escopo
 
-> How can observable stablecoin activity on Ethereum help us understand the evolving relationship between Brazil and decentralized finance?
+O enquadramento público do projeto inclui:
 
-### Research perspective
+- atividade de stablecoins na rede Ethereum;
+- USDT e USDC como lentes iniciais de observação;
+- atividade a partir de 2023;
+- contexto econômico e regulatório brasileiro;
+- comparação de sinais provenientes de fontes públicas;
+- análise temporal exploratória.
 
-The project considers blockchain activity alongside selected economic and regulatory context. A single observed pattern may have multiple explanations, including market conditions, liquidity, exchange availability, regulatory developments, macroeconomic conditions and limitations in data coverage.
+## Conteúdo do repositório público
 
-The research therefore distinguishes among:
+Este repositório é intencionalmente limitado a:
 
-- observed data;
-- derived measures;
-- contextual information;
-- interpretation; and
-- hypotheses for future investigation.
+- contexto do projeto;
+- escopo da pesquisa;
+- metodologia em alto nível;
+- limitações;
+- instruções de acesso aos materiais autorizados.
 
-## Scope and areas of interest
+Os seguintes materiais não são publicados aqui:
 
-The public project framing covers:
+- dados brutos ou processados;
+- scripts de ingestão e transformação;
+- notebooks analíticos;
+- consultas SQL;
+- figuras internas e descobertas;
+- notas detalhadas de pesquisa;
+- artefatos de reprodução.
 
-- Ethereum-based stablecoin activity;
-- USDT and USDC as initial observational lenses;
-- activity from 2023 onward;
-- selected Brazilian economic and regulatory context;
-- changes in observable activity over time;
-- comparison of signals from public sources; and
-- exploratory temporal analysis.
+## Princípios metodológicos
 
-## Methodological principles
+O projeto distingue entre:
 
-At a high level, the research involves identifying relevant public sources, standardizing observations, comparing independent signals over time and placing observed patterns alongside Brazilian economic and regulatory context.
+1. dados observados;
+2. métricas derivadas;
+3. informação contextual;
+4. interpretação;
+5. hipóteses para investigação futura.
 
-This repository intentionally presents only the high-level research framing. It is not a complete reproduction package.
+A atividade em blockchain oferece apenas uma visão parcial do comportamento real. Os resultados devem ser interpretados considerando a cobertura das fontes, as premissas de medição e as limitações dos dados.
 
-## Public repository contents
+## Limitações e interpretação responsável
 
-This repository is intentionally limited to:
+Este projeto é exploratório. Uma relação observada não demonstra que um fator causou outro.
 
-- project context;
-- research scope;
-- high-level methodology;
-- limitations; and
-- access instructions for authorized materials.
+A atividade em blockchain representa apenas parte da atividade financeira do mundo real. Ela pode não capturar:
 
-The following materials are not published here:
+- atividade fora da rede observada;
+- sistemas privados;
+- redes não observadas;
+- intenções dos usuários;
+- relação entre uma carteira e uma pessoa ou organização.
 
-- raw or processed datasets;
-- ingestion and transformation scripts;
-- analytical notebooks;
-- SQL queries;
-- internal figures and findings;
-- detailed research notes; and
-- reproducibility artifacts.
+Também é importante considerar que:
 
-## Limitations and responsible interpretation
+- os dados públicos podem diferir em cobertura, qualidade, frequência de atualização e tratamento de observações ausentes;
+- indicadores derivados são aproximações analíticas;
+- comparações entre fontes devem ser interpretadas com cautela;
+- o projeto não estabelece causalidade econômica;
+- o projeto não identifica indivíduos ou proprietários de carteiras;
+- o projeto não infere nacionalidade de carteiras;
+- o projeto não realiza KYC;
+- o projeto não cria perfis pessoais;
+- o projeto não oferece aconselhamento financeiro, jurídico ou tributário;
+- o projeto não prevê preços de ativos.
 
-This project is exploratory. An observed relationship does not demonstrate that one factor caused another.
+Nada neste projeto constitui aconselhamento de investimento, financeiro, legal, tributário ou de negociação, nem recomendação de compra, venda ou retenção de qualquer ativo.
 
-Blockchain data captures only part of real-world financial activity. It may not capture off-chain activity, private systems, unobserved networks, user intentions or the relationship between a wallet and a person or organization.
+Para mais detalhes, consulte [Limitações](docs/limitations.md).
 
-Public data sources may differ in coverage, definitions, update frequency, historical availability, quality, aggregation methods and treatment of missing observations. Derived indicators are analytical approximations and may depend on asset selection, protocol selection, market coverage, exchange availability, currency conversion, time aggregation and data-preparation assumptions.
+## Política de comunicação pública
 
-This project:
+Materiais detalhados de pesquisa, incluindo dados, scripts de processamento, notebooks, SQL, descobertas internas e artefatos de reprodução, são mantidos separadamente. O acesso pode ser concedido a colaboradores, revisores ou pesquisadores autorizados, mediante solicitação individual.
 
-- does not identify individuals or wallet owners;
-- does not infer wallet nationality;
-- does not perform KYC;
-- does not create personal profiles;
-- does not provide investment, legal or tax advice;
-- does not predict asset prices; and
-- does not establish economic causality.
+Essa restrição tem como objetivo proteger a integridade da pesquisa, respeitar termos aplicáveis de dados e serviços e evitar reprodução não autorizada do trabalho.
 
-Nothing in this project constitutes investment, financial, legal, tax or trading advice, or a recommendation to buy, sell or hold any asset.
+## Uso adequado
 
-For additional detail, see [Limitations](docs/limitations.md).
+O conteúdo deste repositório pode ser usado para entender o enquadramento da pesquisa e apoiar discussões ou colaborações autorizadas. Ele não deve ser tratado como conselho financeiro, previsão de mercado ou medição definitiva da adoção de DeFi no Brasil.
 
-## Public communication policy
+## Status do projeto
 
-Detailed datasets, processing logic, notebooks, SQL, internal findings and other protected research materials are maintained separately. Access may be granted to authorized collaborators, reviewers or researchers following an individual request.
+**Status:** Protótipo de pesquisa exploratória  
+**Origem:** Iniciado durante o ETHOnline 2026
 
-This restriction is intended to protect research integrity, respect applicable data and service terms, and prevent unauthorized reproduction of the underlying work.
+O escopo, a metodologia e os materiais podem evoluir conforme a pesquisa for validada e ampliada.
 
-## Appropriate use
+## Contato
 
-The material in this repository may be used to understand the project's research framing and to support authorized discussion or collaboration. It should not be treated as financial advice, a market forecast or a definitive measure of DeFi adoption in Brazil.
+Para solicitar acesso, propor colaboração ou esclarecer dúvidas, entre em contato com [@nandaurichio](https://github.com/nandaurichio).
 
-## Project status
+## Licença e materiais de terceiros
 
-**Status:** Exploratory research prototype  
-**Origin:** Initiated during ETHOnline 2026
-
-The scope, methodology and materials may evolve as the research is validated and extended.
-
-## Contact
-
-For access requests, research collaboration or other project inquiries, contact [@nandaurichio](https://github.com/nandaurichio).
-
-## License and third-party materials
-
-The public-facing materials in this repository are provided under the terms of the repository's license, when one is included. Third-party names, data, services and trademarks remain subject to their respective terms and rights.
+Os materiais públicos deste repositório são fornecidos conforme os termos da licença do repositório, quando houver. Nomes, dados, serviços e marcas de terceiros permanecem sujeitos aos respectivos direitos e termos de uso.
